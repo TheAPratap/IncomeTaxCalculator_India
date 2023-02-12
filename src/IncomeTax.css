@@ -1,0 +1,57 @@
+
+  
+.IncomeTax {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+    text-align: center;
+  }
+  
+  .IncomeTax h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 40px;
+  }
+  
+  .IncomeTax label {
+    font-size: 20px;
+    color: #333;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .IncomeTax input[type="number"] {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #FFC107;
+    width: 20%;
+    text-align: center;
+    box-shadow: 0px 0px 10px #FFC107;
+    margin-bottom: 20px;
+  }
+  
+  .IncomeTax button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #FFC107;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px #FFC107;
+  }
+  
+  .IncomeTax-result {
+    margin-top: 40px;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .IncomeTax-tax {
+    color: green;
+    font-weight: bold;
+    font-size: 24px;
+  }
